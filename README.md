@@ -19,7 +19,7 @@ Installation
 
     Clone the repository:
 
-    bash git clone https://github.com/your-github-username/github-user-search.git
+    bash git clone https://github.com/sauerlock/github-api-proxy.git
 
 Install the required packages in both frontend and api directories:
 
