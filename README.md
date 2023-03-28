@@ -38,7 +38,5 @@ Start the React app by running the following command inside the frontend directo
 
     npm start
     The app should open automatically in your default browser at http://localhost:3001.
-    To search for a Github user, type the username in the search bar and click the search button.
-    The user's profile will be displayed in a card.
-
+  
 License This project is licensed under the MIT License.
