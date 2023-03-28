@@ -28,8 +28,7 @@ Install the required packages in both frontend and api directories:
     Replace the TOKEN constant in api/server.js with your Github personal access token.(The token is already set only for the API use.)
     cd ../api
     npm install
-    To search for a Github user, type the username in the search bar and click the search button.
-    The user's profile will be displayed in a card.
+  
 
 Usage
 
