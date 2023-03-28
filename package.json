@@ -1,0 +1,20 @@
+{
+  "name": "github-api-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node": "^16.0.0",
+    "parse-link-header": "^2.0.0",
+    "routes": "^2.1.0"
+  }
+}
