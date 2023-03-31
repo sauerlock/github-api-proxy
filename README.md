@@ -1,9 +1,10 @@
 # github-api-proxy
  The following API query the users from the GitHubApi using a express.js and node.js server, it shows the users details when selected on the frontend with React. 
 
-Github User Search This is a web app that allows users to search for Github users and view their profiles and repositories details.
+This is a web api that allows users to proxy for Github users and view their profiles and repositories details.
 
-Prerequisites Make sure you have the following installed:
+Prerequisites:
+Make sure you have the following packages installed:
 
     Node.js v18 or above
     NPM v9 or above
