@@ -32,12 +32,12 @@ Usage
 Start the React app by running the following command inside the frontend directory:
 
     npm start
-    The app should open automatically in your default browser at http://localhost:3001.
+    The app should open automatically in your default browser at http://localhost:3000.
 
 Start the server by running the following command inside the api directory: 
 
     node server.js 
-    The server should start running at http://localhost:3000.
+    The server should start running at http://localhost:3001.
 
   
 License This project is licensed under the MIT License.
